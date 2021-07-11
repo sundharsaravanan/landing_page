@@ -1,4 +1,4 @@
-# landing_page
+# Landing Page UI Flutter
 
 A new Flutter project.
 
